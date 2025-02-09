@@ -1,0 +1,36 @@
+{
+  "results": [
+    {
+      "title": "Gradient Descent based Optimization Algorithms for Deep Learning Models Training",
+      "authors": "Jiawei Zhang",
+      "publication_date": "2019-03-11",
+      "summary": "In this paper, we aim at providing an introduction to the gradient descent\nbased optimization algorithms for learning deep neural network models. Deep\nlearning models involving multiple nonlinear projection layers are very\nchallenging to train. Nowadays, most of the deep learning model training still\nrelies on the back propagation algorithm actually. In back propagation, the\nmodel variables will be updated iteratively until convergence with gradient\ndescent based optimization algorithms. Besides the conventional vanilla\ngradient descent algorithm, many gradient descent variants have also been\nproposed in recent years to improve the learning performance, including\nMomentum, Adagrad, Adam, Gadam, etc., which will all be introduced in this\npaper respectively.",
+      "source": "Arxiv",
+      "reason": "The paper is highly relevant to the topic as it focuses on optimization algorithms for deep learning models training, which is a current trend in the field. It was published recently in 2019, making it more up-to-date compared to other papers."
+    },
+    {
+      "title": "Deep Reinforcement Learning in Computer Vision: A Comprehensive Survey",
+      "authors": "Ngan Le, Vidhiwar Singh Rathour, Kashu Yamazaki, Khoa Luu, Marios Savvides",
+      "publication_date": "2021-08-25",
+      "summary": "Deep reinforcement learning augments the reinforcement learning framework and\nutilizes the powerful representation of deep neural networks. Recent works have\ndemonstrated the remarkable successes of deep reinforcement learning in various\ndomains including finance, medicine, healthcare, video games, robotics, and\ncomputer vision. In this work, we provide a detailed review of recent and\nstate-of-the-art research advances of deep reinforcement learning in computer\nvision. We start with comprehending the theories of deep learning,\nreinforcement learning, and deep reinforcement learning. We then propose a\ncategorization of deep reinforcement learning methodologies and discuss their\nadvantages and limitations. In particular, we divide deep reinforcement\nlearning into seven main categories according to their applications in computer\nvision, i.e. (i)landmark localization (ii) object detection; (iii) object\ntracking; (iv) registration on both 2D image and 3D image volumetric data (v)\nimage segmentation; (vi) videos analysis; and (vii) other applications. Each of\nthese categories is further analyzed with reinforcement learning techniques,\nnetwork design, and performance. Moreover, we provide a comprehensive analysis\nof the existing publicly available datasets and examine source code\navailability. Finally, we present some open issues and discuss future research\ndirections on deep reinforcement learning in computer vision",
+      "source": "Arxiv",
+      "reason": "The paper is highly relevant to the topic as it provides a comprehensive survey of deep reinforcement learning in computer vision, which is a current trend in the field. It was published recently in 2021, making it more up-to-date compared to other papers."
+    },
+    {
+      "title": "Modern Deep Reinforcement Learning Algorithms",
+      "authors": "Sergey Ivanov, Alexander D'yakonov",
+      "publication_date": "2019-07-06",
+      "summary": "Recent advances in Reinforcement Learning, grounded on combining classical\ntheoretical results with Deep Learning paradigm, led to breakthroughs in many\nartificial intelligence tasks and gave birth to Deep Reinforcement Learning\n(DRL) as a field of research. In this work latest DRL algorithms are reviewed\nwith a focus on their theoretical justification, practical limitations and\nobserved empirical properties.",
+      "source": "Arxiv",
+      "reason": "The paper is highly relevant to the topic as it reviews modern deep reinforcement learning algorithms, which is a current trend in the field. It was published recently in 2019, making it more up-to-date compared to other papers."
+    },
+    {
+      "title": "Quantum Neural Networks: Concepts, Applications, and Challenges",
+      "authors": "Yunseok Kwak, Won Joon Yun, Soyi Jung, Joongheon Kim",
+      "publication_date": "2021-08-02",
+      "summary": "Quantum deep learning is a research field for the use of quantum computing\ntechniques for training deep neural networks. The research topics and\ndirections of deep learning and quantum computing have been separated for long\ntime, however by discovering that quantum circuits can act like artificial\nneural networks, quantum deep learning research is widely adopted. This paper\nexplains the backgrounds and basic principles of quantum deep learning and also\nintroduces major achievements. After that, this paper discusses the challenges\nof quantum deep learning research in multiple perspectives. Lastly, this paper\npresents various future research directions and application fields of quantum\ndeep learning.",
+      "source": "Arxiv",
+      "reason": "The paper is highly relevant to the topic as it discusses quantum neural networks, which is a promising area of research in deep learning. It was published recently in 2021, making it more up-to-date compared to other papers."
+    }
+  ]
+}

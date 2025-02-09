@@ -1,0 +1,74 @@
+{
+  "results": [
+    {
+      "title": "Node-By-Node Greedy Deep Learning for Interpretable Features",
+      "authors": "Ke Wu, Malik Magdon-Ismail",
+      "publication_date": "2016-02-19",
+      "summary": "Multilayer networks have seen a resurgence under the umbrella of deep\nlearning. Current deep learning algorithms train the layers of the network\nsequentially, improving algorithmic performance as well as providing some\nregularization. We present a new training algorithm for deep networks which\ntrains \\emph{each node in the network} sequentially. Our algorithm is orders of\nmagnitude faster, creates more interpretable internal representations at the\nnode level, while not sacrificing on the ultimate out-of-sample performance.",
+      "source": "Arxiv"
+    },
+    {
+      "title": "Gradient Descent based Optimization Algorithms for Deep Learning Models Training",
+      "authors": "Jiawei Zhang",
+      "publication_date": "2019-03-11",
+      "summary": "In this paper, we aim at providing an introduction to the gradient descent\nbased optimization algorithms for learning deep neural network models. Deep\nlearning models involving multiple nonlinear projection layers are very\nchallenging to train. Nowadays, most of the deep learning model training still\nrelies on the back propagation algorithm actually. In back propagation, the\nmodel variables will be updated iteratively until convergence with gradient\ndescent based optimization algorithms. Besides the conventional vanilla\ngradient descent algorithm, many gradient descent variants have also been\nproposed in recent years to improve the learning performance, including\nMomentum, Adagrad, Adam, Gadam, etc., which will all be introduced in this\npaper respectively.",
+      "source": "Arxiv"
+    },
+    {
+      "title": "Modern Deep Reinforcement Learning Algorithms",
+      "authors": "Sergey Ivanov, Alexander D'yakonov",
+      "publication_date": "2019-07-06",
+      "summary": "Recent advances in Reinforcement Learning, grounded on combining classical\ntheoretical results with Deep Learning paradigm, led to breakthroughs in many\nartificial intelligence tasks and gave birth to Deep Reinforcement Learning\n(DRL) as a field of research. In this work latest DRL algorithms are reviewed\nwith a focus on their theoretical justification, practical limitations and\nobserved empirical properties.",
+      "source": "Arxiv"
+    },
+    {
+      "title": "Opening the black box of deep learning",
+      "authors": "Dian Lei, Xiaoxiao Chen, Jianfei Zhao",
+      "publication_date": "2018-05-22",
+      "summary": "The great success of deep learning shows that its technology contains\nprofound truth, and understanding its internal mechanism not only has important\nimplications for the development of its technology and effective application in\nvarious fields, but also provides meaningful insights into the understanding of\nhuman brain mechanism. At present, most of the theoretical research on deep\nlearning is based on mathematics. This dissertation proposes that the neural\nnetwork of deep learning is a physical system, examines deep learning from\nthree different perspectives: microscopic, macroscopic, and physical world\nviews, answers multiple theoretical puzzles in deep learning by using physics\nprinciples. For example, from the perspective of quantum mechanics and\nstatistical physics, this dissertation presents the calculation methods for\nconvolution calculation, pooling, normalization, and Restricted Boltzmann\nMachine, as well as the selection of cost functions, explains why deep learning\nmust be deep, what characteristics are learned in deep learning, why\nConvolutional Neural Networks do not have to be trained layer by layer, and the\nlimitations of deep learning, etc., and proposes the theoretical direction and\nbasis for the further development of deep learning now and in the future. The\nbrilliance of physics flashes in deep learning, we try to establish the deep\nlearning technology based on the scientific theory of physics.",
+      "source": "Arxiv"
+    },
+    {
+      "title": "Quantum Neural Networks: Concepts, Applications, and Challenges",
+      "authors": "Yunseok Kwak, Won Joon Yun, Soyi Jung, Joongheon Kim",
+      "publication_date": "2021-08-02",
+      "summary": "Quantum deep learning is a research field for the use of quantum computing\ntechniques for training deep neural networks. The research topics and\ndirections of deep learning and quantum computing have been separated for long\ntime, however by discovering that quantum circuits can act like artificial\nneural networks, quantum deep learning research is widely adopted. This paper\nexplains the backgrounds and basic principles of quantum deep learning and also\nintroduces major achievements. After that, this paper discusses the challenges\nof quantum deep learning research in multiple perspectives. Lastly, this paper\npresents various future research directions and application fields of quantum\ndeep learning.",
+      "source": "Arxiv"
+    },
+    {
+      "title": "Deep Reinforcement Learning in Computer Vision: A Comprehensive Survey",
+      "authors": "Ngan Le, Vidhiwar Singh Rathour, Kashu Yamazaki, Khoa Luu, Marios Savvides",
+      "publication_date": "2021-08-25",
+      "summary": "Deep reinforcement learning augments the reinforcement learning framework and\nutilizes the powerful representation of deep neural networks. Recent works have\ndemonstrated the remarkable successes of deep reinforcement learning in various\ndomains including finance, medicine, healthcare, video games, robotics, and\ncomputer vision. In this work, we provide a detailed review of recent and\nstate-of-the-art research advances of deep reinforcement learning in computer\nvision. We start with comprehending the theories of deep learning,\nreinforcement learning, and deep reinforcement learning. We then propose a\ncategorization of deep reinforcement learning methodologies and discuss their\nadvantages and limitations. In particular, we divide deep reinforcement\nlearning into seven main categories according to their applications in computer\nvision, i.e. (i)landmark localization (ii) object detection; (iii) object\ntracking; (iv) registration on both 2D image and 3D image volumetric data (v)\nimage segmentation; (vi) videos analysis; and (vii) other applications. Each of\nthese categories is further analyzed with reinforcement learning techniques,\nnetwork design, and performance. Moreover, we provide a comprehensive analysis\nof the existing publicly available datasets and examine source code\navailability. Finally, we present some open issues and discuss future research\ndirections on deep reinforcement learning in computer vision",
+      "source": "Arxiv"
+    },
+    {
+      "title": "A Survey on Deep Learning Methods for Robot Vision",
+      "authors": "Javier Ruiz-del-Solar, Patricio Loncomilla, Naiomi Soto",
+      "publication_date": "2018-03-28",
+      "summary": "Deep learning has allowed a paradigm shift in pattern recognition, from using\nhand-crafted features together with statistical classifiers to using\ngeneral-purpose learning procedures for learning data-driven representations,\nfeatures, and classifiers together. The application of this new paradigm has\nbeen particularly successful in computer vision, in which the development of\ndeep learning methods for vision applications has become a hot research topic.\nGiven that deep learning has already attracted the attention of the robot\nvision community, the main purpose of this survey is to address the use of deep\nlearning in robot vision. To achieve this, a comprehensive overview of deep\nlearning and its usage in computer vision is given, that includes a description\nof the most frequently used neural models and their main application areas.\nThen, the standard methodology and tools used for designing deep-learning based\nvision systems are presented. Afterwards, a review of the principal work using\ndeep learning in robot vision is presented, as well as current and future\ntrends related to the use of deep learning in robotics. This survey is intended\nto be a guide for the developers of robot vision systems.",
+      "source": "Arxiv"
+    },
+    {
+      "title": "Development of Deep Learning Based Natural Language Processing Model for Turkish",
+      "authors": "Baris Baburoglu, Adem Tekerek, Mehmet Tekerek",
+      "publication_date": "2019-05-07",
+      "summary": "Natural language is one of the most fundamental features that distinguish\npeople from other living things and enable people to communicate each other.\nLanguage is a tool that enables people to express their feelings and thoughts\nand to transfers cultures through generations. Texts and audio are examples of\nnatural language in daily life. In the natural language, many words disappear\nin time, on the other hand new words are derived. Therefore, while the process\nof natural language processing (NLP) is complex even for human, it is difficult\nto process in computer system. The area of linguistics examines how people use\nlanguage. NLP, which requires the collaboration of linguists and computer\nscientists, plays an important role in human computer interaction. Studies in\nNLP have increased with the use of artificial intelligence technologies in the\nfield of linguistics. With the deep learning methods which are one of the\nartificial intelligence study areas, platforms close to natural language are\nbeing developed. Developed platforms for language comprehension, machine\ntranslation and part of speech (POS) tagging benefit from deep learning\nmethods. Recurrent Neural Network (RNN), one of the deep learning\narchitectures, is preferred for processing sequential data such as text or\naudio data. In this study, Turkish POS tagging model has been proposed by using\nBidirectional Long-Short Term Memory (BLSTM) which is an RNN type. The proposed\nPOS tagging model is provided to natural language researchers with a platform\nthat allows them to perform and use their own analysis. In the development\nphase of the platform developed by using BLSTM, the error rate of the POS\ntagger has been reduced by taking feedback with expert opinion.",
+      "source": "Arxiv"
+    },
+    {
+      "title": "Deep Learning Based Natural Language Processing for End to End Speech Translation",
+      "authors": "Sarvesh Patil",
+      "publication_date": "2018-08-09",
+      "summary": "Deep Learning methods employ multiple processing layers to learn hierarchial\nrepresentations of data. They have already been deployed in a humongous number\nof applications and have produced state-of-the-art results. Recently with the\ngrowth in processing power of computers to be able to do high dimensional\ntensor calculations, Natural Language Processing (NLP) applications have been\ngiven a significant boost in terms of efficiency as well as accuracy. In this\npaper, we will take a look at various signal processing techniques and then\napplication of them to produce a speech-to-text system using Deep Recurrent\nNeural Networks.",
+      "source": "Arxiv"
+    },
+    {
+      "title": "Modular Mechanistic Networks: On Bridging Mechanistic and Phenomenological Models with Deep Neural Networks in Natural Language Processing",
+      "authors": "Simon Dobnik, John D. Kelleher",
+      "publication_date": "2019-03-23",
+      "summary": "Natural language processing (NLP) can be done using either top-down (theory\ndriven) and bottom-up (data driven) approaches, which we call mechanistic and\nphenomenological respectively. The approaches are frequently considered to\nstand in opposition to each other. Examining some recent approaches in deep\nlearning we argue that deep neural networks incorporate both perspectives and,\nfurthermore, that leveraging this aspect of deep learning may help in solving\ncomplex problems within language technology, such as modelling language and\nperception in the domain of spatial cognition.",
+      "source": "Arxiv"
+    }
+  ]
+}

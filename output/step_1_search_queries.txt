@@ -1,0 +1,8 @@
+{
+  "queries": [
+    "Deep Learning algorithms",
+    "Applications of Deep Learning",
+    "Deep Learning in Computer Vision",
+    "Deep Learning in Natural Language Processing"
+  ]
+}
